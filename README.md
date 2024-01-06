@@ -18,3 +18,7 @@ Outputs:
 The rendering is done using the [SFML](https://www.sfml-dev.org) library, and the midi handling uses [RtMidi](http://www.music.mcgill.ca/~gary/rtmidi/).
 - [SFML GitHub](https://github.com/SFML/SFML)
 - [RtMidi GitHub](https://github.com/thestk/rtmidi)
+
+You can see what the project looks like on this video:
+
+[![Midi Aggregator](https://img.youtube.com/vi/qY0Q-AlWvaI/0.jpg)](https://www.youtube.com/watch?v=qY0Q-AlWvaI)
