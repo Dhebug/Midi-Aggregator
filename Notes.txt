@@ -1,0 +1,23 @@
+There are 9 MIDI input sources available.
+  Input Port #1: ESI M4U eX 0
+  Input Port #2: MIDIIN2 (ESI M4U eX) 1
+  Input Port #3: MIDIIN3 (ESI M4U eX) 2
+  Input Port #4: MIDIIN4 (ESI M4U eX) 3
+  Input Port #5: MIDIIN5 (ESI M4U eX) 4
+  Input Port #6: MIDIIN6 (ESI M4U eX) 5
+  Input Port #7: MIDIIN7 (ESI M4U eX) 6
+  Input Port #8: MIDIIN8 (ESI M4U eX) 7
+  Input Port #9: MPKmini2 8
+
+There are 10 MIDI output ports available.
+  Output Port #1: Microsoft GS Wavetable Synth 0
+  Output Port #2: ESI M4U eX 1
+  Output Port #3: MIDIOUT2 (ESI M4U eX) 2
+  Output Port #4: MIDIOUT3 (ESI M4U eX) 3
+  Output Port #5: MIDIOUT4 (ESI M4U eX) 4
+  Output Port #6: MIDIOUT5 (ESI M4U eX) 5
+  Output Port #7: MIDIOUT6 (ESI M4U eX) 6
+  Output Port #8: MIDIOUT7 (ESI M4U eX) 7
+  Output Port #9: MIDIOUT8 (ESI M4U eX) 8
+  Output Port #10: MPKmini2 9
+
